@@ -1,0 +1,1 @@
+# RobloxScript-Kill-all-source
